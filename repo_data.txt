@@ -1,0 +1,2 @@
+issues count=30
+pr count=5
